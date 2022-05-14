@@ -1,0 +1,23 @@
+<html>
+<head><title>my page</title>
+</head>
+<body bgcolor="red">
+<h1>welcome to my image page</h1>
+</body>
+</html>
+
+
+<!DOCTYPE html>  
+<html>  
+<head>  
+    <title>Form in HTML</title>  
+</head>  
+<body>  
+  <form>  
+        Enter your address:<br>  
+      <textarea rows="2" cols="20"></textarea>  
+  </form>  
+</body>  
+</html>  
+
+
