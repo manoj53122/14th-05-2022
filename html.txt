@@ -2,7 +2,7 @@
 <head><title>my page</title>
 </head>
 <body bgcolor="red">
-<h1>welcome to my image page</h1>
+<h1>welcome to my image pages</h1>
 </body>
 </html>
 
